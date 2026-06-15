@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "barbaracle",
+    "level": 90,
+    "moves": [
+      "stoneedge",
+      "razorshell",
+      "crosschop",
+      "shellsmash"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "ROCK",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "mega"
+}

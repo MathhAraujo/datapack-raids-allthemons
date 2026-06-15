@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "magearna",
+    "tera_type": "steel",
+    "moves": [
+      "fleurcannon",
+      "flashcannon",
+      "shiftgear",
+      "aurasphere"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "STEEL",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

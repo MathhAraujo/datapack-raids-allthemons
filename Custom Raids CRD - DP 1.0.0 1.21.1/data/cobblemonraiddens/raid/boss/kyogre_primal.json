@@ -1,0 +1,17 @@
+{
+  "pokemon": {
+    "species": "kyogre",
+    "moves": [
+      "originpulse",
+      "thunder",
+      "icebeam",
+      "calmmind"
+    ],
+    "held_item": "mega_showdown:blue_orb"
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "WATER",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0
+}

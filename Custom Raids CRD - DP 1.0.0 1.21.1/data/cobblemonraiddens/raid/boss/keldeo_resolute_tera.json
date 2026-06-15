@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "keldeo",
+    "aspects": [
+      "resolute-form"
+    ],
+    "tera_type": "water",
+    "moves": [
+      "secretsword",
+      "hydropump",
+      "calmmind",
+      "icywind"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "WATER",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

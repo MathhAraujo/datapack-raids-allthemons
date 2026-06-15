@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "zarude",
+    "aspects": [
+      "dada-cape"
+    ],
+    "tera_type": "dark",
+    "moves": [
+      "powerwhip",
+      "darkestlariat",
+      "bulkup",
+      "junglehealing"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "DARK",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

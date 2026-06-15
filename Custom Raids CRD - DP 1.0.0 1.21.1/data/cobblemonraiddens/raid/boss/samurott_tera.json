@@ -1,0 +1,19 @@
+{
+  "pokemon": {
+    "species": "samurott",
+    "level": 90,
+    "tera_type": "water",
+    "moves": [
+      "razorshell",
+      "megahorn",
+      "icebeam",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "WATER",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "tera"
+}

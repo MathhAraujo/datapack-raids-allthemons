@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "zamazenta",
+    "tera_type": "fighting",
+    "moves": [
+      "crunch",
+      "closecombat",
+      "irondefense",
+      "bodypress"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "FIGHTING",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

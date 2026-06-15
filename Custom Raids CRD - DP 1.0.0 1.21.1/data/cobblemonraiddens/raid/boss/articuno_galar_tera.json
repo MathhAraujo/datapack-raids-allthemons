@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "articuno",
+    "aspects": [
+      "galarian"
+    ],
+    "tera_type": "psychic",
+    "moves": [
+      "freezingglare",
+      "hurricane",
+      "recover",
+      "calmmind"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "PSYCHIC",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

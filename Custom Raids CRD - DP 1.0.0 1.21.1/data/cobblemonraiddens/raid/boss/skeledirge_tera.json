@@ -1,0 +1,19 @@
+{
+  "pokemon": {
+    "species": "skeledirge",
+    "level": 90,
+    "tera_type": "fire",
+    "moves": [
+      "torchsong",
+      "shadowball",
+      "earthpower",
+      "slackoff"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "FIRE",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "tera"
+}

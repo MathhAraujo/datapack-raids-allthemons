@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "arceus",
+    "aspects": [
+      "flying-plate"
+    ],
+    "tera_type": "flying",
+    "moves": [
+      "judgment",
+      "recover",
+      "calmmind",
+      "earthpower"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "FLYING",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

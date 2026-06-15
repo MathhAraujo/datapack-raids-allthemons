@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "terapagos",
+    "aspects": [
+      "stellar-form"
+    ],
+    "tera_type": "normal",
+    "moves": [
+      "terastarstorm",
+      "earthpower",
+      "calmmind",
+      "recover"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "NORMAL",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

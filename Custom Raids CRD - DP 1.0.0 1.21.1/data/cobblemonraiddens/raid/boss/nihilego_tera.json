@@ -1,0 +1,19 @@
+{
+  "pokemon": {
+    "species": "nihilego",
+    "level": 90,
+    "tera_type": "rock",
+    "moves": [
+      "powergem",
+      "sludgewave",
+      "thunderbolt",
+      "acidspray"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "ROCK",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "tera"
+}

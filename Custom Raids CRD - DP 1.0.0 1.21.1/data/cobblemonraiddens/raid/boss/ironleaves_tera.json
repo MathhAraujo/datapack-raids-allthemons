@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "ironleaves",
+    "tera_type": "grass",
+    "moves": [
+      "psyblade",
+      "leafblade",
+      "swordsdance",
+      "closecombat"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "GRASS",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

@@ -1,0 +1,19 @@
+{
+  "pokemon": {
+    "species": "ironvaliant",
+    "level": 90,
+    "tera_type": "fairy",
+    "moves": [
+      "moonblast",
+      "closecombat",
+      "psychocut",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "FAIRY",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "tera"
+}

@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "emboar",
+    "level": 90,
+    "moves": [
+      "flareblitz",
+      "closecombat",
+      "wildcharge",
+      "bulkup"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "FIRE",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "mega"
+}

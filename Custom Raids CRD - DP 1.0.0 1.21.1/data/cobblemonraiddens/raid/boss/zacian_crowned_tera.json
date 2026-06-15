@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "zacian",
+    "aspects": [
+      "crowned"
+    ],
+    "tera_type": "fairy",
+    "moves": [
+      "behemothblade",
+      "playrough",
+      "swordsdance",
+      "sacredsword"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "FAIRY",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

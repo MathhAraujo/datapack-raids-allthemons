@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "jirachi",
+    "tera_type": "steel",
+    "moves": [
+      "ironhead",
+      "psychic",
+      "calmmind",
+      "thunderwave"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "STEEL",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

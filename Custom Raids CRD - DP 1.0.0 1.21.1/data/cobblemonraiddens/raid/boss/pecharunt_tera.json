@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "pecharunt",
+    "tera_type": "poison",
+    "moves": [
+      "malignantchain",
+      "shadowball",
+      "nastyplot",
+      "recover"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "POISON",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

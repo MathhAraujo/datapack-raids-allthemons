@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "arceus",
+    "aspects": [
+      "poison-plate"
+    ],
+    "tera_type": "poison",
+    "moves": [
+      "judgment",
+      "recover",
+      "calmmind",
+      "earthpower"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "POISON",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

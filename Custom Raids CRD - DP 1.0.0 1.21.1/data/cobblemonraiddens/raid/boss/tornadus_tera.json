@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "tornadus",
+    "tera_type": "flying",
+    "moves": [
+      "bleakwindstorm",
+      "hurricane",
+      "nastyplot",
+      "tailwind"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "FLYING",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "crabominable",
+    "level": 90,
+    "moves": [
+      "icehammer",
+      "closecombat",
+      "earthquake",
+      "bulkup"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "FIGHTING",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "mega"
+}

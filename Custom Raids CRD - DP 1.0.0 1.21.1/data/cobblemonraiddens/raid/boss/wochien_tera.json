@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "wochien",
+    "tera_type": "dark",
+    "moves": [
+      "gigadrain",
+      "darkpulse",
+      "leechseed",
+      "ruination"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "DARK",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

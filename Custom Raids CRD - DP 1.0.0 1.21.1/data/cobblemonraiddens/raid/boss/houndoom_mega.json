@@ -1,0 +1,19 @@
+{
+  "pokemon": {
+    "species": "houndoom",
+    "level": 90,
+    "moves": [
+      "flamethrower",
+      "darkpulse",
+      "sludgebomb",
+      "nastyplot"
+    ],
+    "held_item": "mega_showdown:houndoominite"
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "DARK",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "mega"
+}

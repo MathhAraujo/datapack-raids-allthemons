@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "starmie",
+    "level": 90,
+    "moves": [
+      "hydropump",
+      "psychic",
+      "thunderbolt",
+      "recover"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "WATER",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "mega"
+}

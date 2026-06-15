@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "ampharos",
+    "level": 90,
+    "moves": [
+      "thunderbolt",
+      "dragonpulse",
+      "powergem",
+      "thunderwave"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "ELECTRIC",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "mega"
+}

@@ -1,0 +1,19 @@
+{
+  "pokemon": {
+    "species": "infernape",
+    "level": 90,
+    "tera_type": "fire",
+    "moves": [
+      "flareblitz",
+      "closecombat",
+      "thunderpunch",
+      "swordsdance"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "FIRE",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "tera"
+}

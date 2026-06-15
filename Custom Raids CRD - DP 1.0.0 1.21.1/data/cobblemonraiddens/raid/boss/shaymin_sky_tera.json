@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "shaymin",
+    "aspects": [
+      "sky-forme"
+    ],
+    "tera_type": "grass",
+    "moves": [
+      "seedflare",
+      "airslash",
+      "earthpower",
+      "roost"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "GRASS",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

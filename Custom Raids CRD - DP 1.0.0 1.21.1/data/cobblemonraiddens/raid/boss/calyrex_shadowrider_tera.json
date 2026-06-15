@@ -1,0 +1,21 @@
+{
+  "pokemon": {
+    "species": "calyrex",
+    "aspects": [
+      "shadow-rider"
+    ],
+    "tera_type": "psychic",
+    "moves": [
+      "astralbarrage",
+      "psychic",
+      "nastyplot",
+      "drainingkiss"
+    ]
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "PSYCHIC",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 32.0,
+  "raid_feature": "tera"
+}

@@ -1,0 +1,19 @@
+{
+  "pokemon": {
+    "species": "pheromosa",
+    "level": 90,
+    "tera_type": "bug",
+    "moves": [
+      "highjumpkick",
+      "lunge",
+      "icebeam",
+      "speedswap"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "BUG",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "tera"
+}

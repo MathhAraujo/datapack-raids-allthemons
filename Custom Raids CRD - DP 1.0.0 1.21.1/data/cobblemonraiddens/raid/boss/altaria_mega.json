@@ -1,0 +1,18 @@
+{
+  "pokemon": {
+    "species": "altaria",
+    "level": 90,
+    "moves": [
+      "hypervoice",
+      "dragonpulse",
+      "flamethrower",
+      "dragondance"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "DRAGON",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "mega"
+}

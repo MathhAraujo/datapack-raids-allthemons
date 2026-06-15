@@ -1,0 +1,22 @@
+{
+  "pokemon": {
+    "species": "goodra",
+    "level": 90,
+    "aspects": [
+      "hisuian"
+    ],
+    "tera_type": "steel",
+    "moves": [
+      "flashcannon",
+      "dragonpulse",
+      "earthquake",
+      "shelter"
+    ]
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "STEEL",
+  "weight": 20.0,
+  "ha_rate": 1.0,
+  "shiny_rate": 128.0,
+  "raid_feature": "tera"
+}
