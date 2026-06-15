@@ -7,7 +7,8 @@
       "shadowball",
       "thunderbolt",
       "calmmind"
-    ]
+    ],
+    "held_item": "zamega:meowsticite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "PSYCHIC",

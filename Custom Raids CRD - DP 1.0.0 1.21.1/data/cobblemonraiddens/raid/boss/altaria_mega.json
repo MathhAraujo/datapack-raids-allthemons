@@ -7,7 +7,8 @@
       "dragonpulse",
       "flamethrower",
       "dragondance"
-    ]
+    ],
+    "held_item": "mega_showdown:altarianite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "DRAGON",

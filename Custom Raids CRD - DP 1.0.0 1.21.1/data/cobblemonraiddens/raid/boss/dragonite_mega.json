@@ -7,7 +7,8 @@
       "hurricane",
       "earthquake",
       "dragondance"
-    ]
+    ],
+    "held_item": "zamega:dragoninite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "DRAGON",

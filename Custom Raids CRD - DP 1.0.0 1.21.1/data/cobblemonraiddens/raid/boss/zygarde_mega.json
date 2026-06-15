@@ -6,7 +6,8 @@
       "coreenforcer",
       "dragondance",
       "rest"
-    ]
+    ],
+    "held_item": "zamega:zygardite"
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "DRAGON",

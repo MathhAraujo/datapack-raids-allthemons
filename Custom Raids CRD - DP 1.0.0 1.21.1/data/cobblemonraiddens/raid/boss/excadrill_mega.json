@@ -7,7 +7,8 @@
       "ironhead",
       "rockslide",
       "swordsdance"
-    ]
+    ],
+    "held_item": "zamega:excadrite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "GROUND",

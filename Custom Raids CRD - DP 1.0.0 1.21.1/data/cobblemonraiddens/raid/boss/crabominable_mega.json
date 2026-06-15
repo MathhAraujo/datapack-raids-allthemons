@@ -7,7 +7,8 @@
       "closecombat",
       "earthquake",
       "bulkup"
-    ]
+    ],
+    "held_item": "zamega:crabominite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "FIGHTING",

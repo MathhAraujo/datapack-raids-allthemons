@@ -7,7 +7,8 @@
       "flashcannon",
       "dragonpulse",
       "swordsdance"
-    ]
+    ],
+    "held_item": "mega_showdown:lucarionite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "FIGHTING",

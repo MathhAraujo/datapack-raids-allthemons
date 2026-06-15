@@ -7,7 +7,8 @@
       "heatwave",
       "hypervoice",
       "roost"
-    ]
+    ],
+    "held_item": "mega_showdown:pidgeotite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "NORMAL",

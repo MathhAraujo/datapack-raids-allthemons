@@ -7,7 +7,8 @@
       "sludgewave",
       "earthpower",
       "stealthrock"
-    ]
+    ],
+    "held_item": "zamega:glimmoranite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "ROCK",

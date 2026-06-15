@@ -6,7 +6,8 @@
       "flashcannon",
       "earthpower",
       "taunt"
-    ]
+    ],
+    "held_item": "zamega:heatranite"
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "FIRE",

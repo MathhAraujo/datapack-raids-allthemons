@@ -7,7 +7,8 @@
       "return",
       "icepunch",
       "poweruppunch"
-    ]
+    ],
+    "held_item": "mega_showdown:lopunnite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "NORMAL",

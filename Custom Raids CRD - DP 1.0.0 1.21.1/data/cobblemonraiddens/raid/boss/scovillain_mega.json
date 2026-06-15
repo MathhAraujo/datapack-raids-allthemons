@@ -7,7 +7,8 @@
       "energyball",
       "crunch",
       "spicyextract"
-    ]
+    ],
+    "held_item": "zamega:scovillainite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "GRASS",

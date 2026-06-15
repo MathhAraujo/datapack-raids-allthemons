@@ -7,7 +7,8 @@
       "hypervoice",
       "darkpulse",
       "nobleroar"
-    ]
+    ],
+    "held_item": "zamega:pyroarite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "FIRE",

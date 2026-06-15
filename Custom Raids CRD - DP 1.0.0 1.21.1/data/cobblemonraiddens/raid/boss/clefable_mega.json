@@ -7,7 +7,8 @@
       "flamethrower",
       "calmmind",
       "softboiled"
-    ]
+    ],
+    "held_item": "zamega:clefablite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "FAIRY",

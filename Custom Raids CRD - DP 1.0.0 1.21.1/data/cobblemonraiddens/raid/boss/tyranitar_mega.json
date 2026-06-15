@@ -7,7 +7,8 @@
       "crunch",
       "earthquake",
       "dragondance"
-    ]
+    ],
+    "held_item": "mega_showdown:tyranitarite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "ROCK",

@@ -7,7 +7,8 @@
       "liquidation",
       "leechlife",
       "swordsdance"
-    ]
+    ],
+    "held_item": "zamega:golisopite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "BUG",

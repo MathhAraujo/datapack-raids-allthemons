@@ -7,7 +7,8 @@
       "darkpulse",
       "icebeam",
       "extrasensory"
-    ]
+    ],
+    "held_item": "zamega:greninjite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "WATER",

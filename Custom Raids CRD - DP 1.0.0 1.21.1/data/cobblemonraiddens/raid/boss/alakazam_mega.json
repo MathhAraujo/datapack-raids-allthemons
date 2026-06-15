@@ -7,7 +7,8 @@
       "focusblast",
       "shadowball",
       "calmmind"
-    ]
+    ],
+    "held_item": "mega_showdown:alakazite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "PSYCHIC",

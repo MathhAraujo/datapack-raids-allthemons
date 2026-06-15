@@ -7,7 +7,8 @@
       "poisonjab",
       "earthquake",
       "swordsdance"
-    ]
+    ],
+    "held_item": "zamega:scolipite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "BUG",

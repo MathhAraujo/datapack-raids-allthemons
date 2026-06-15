@@ -7,7 +7,8 @@
       "shadowball",
       "thunderwave",
       "confuseray"
-    ]
+    ],
+    "held_item": "zamega:froslassite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "ICE",

@@ -7,7 +7,8 @@
       "playrough",
       "psychocut",
       "swordsdance"
-    ]
+    ],
+    "held_item": "mega_showdown:absolite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "DARK",

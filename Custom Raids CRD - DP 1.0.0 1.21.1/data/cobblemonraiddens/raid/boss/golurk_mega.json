@@ -7,7 +7,8 @@
       "shadowpunch",
       "dynamicpunch",
       "rockpolish"
-    ]
+    ],
+    "held_item": "zamega:golurkite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "GROUND",

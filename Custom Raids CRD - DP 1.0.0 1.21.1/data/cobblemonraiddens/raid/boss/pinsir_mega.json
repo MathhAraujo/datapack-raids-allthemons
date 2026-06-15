@@ -7,7 +7,8 @@
       "xscissor",
       "closecombat",
       "swordsdance"
-    ]
+    ],
+    "held_item": "mega_showdown:pinsirite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "BUG",

@@ -6,7 +6,8 @@
       "flashcannon",
       "shiftgear",
       "aurasphere"
-    ]
+    ],
+    "held_item": "zamega:magearnite"
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "STEEL",

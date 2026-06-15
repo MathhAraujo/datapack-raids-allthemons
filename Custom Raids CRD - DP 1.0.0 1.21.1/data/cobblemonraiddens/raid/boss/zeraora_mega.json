@@ -6,7 +6,8 @@
       "closecombat",
       "bulkup",
       "knockoff"
-    ]
+    ],
+    "held_item": "zamega:zeraorite"
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "ELECTRIC",

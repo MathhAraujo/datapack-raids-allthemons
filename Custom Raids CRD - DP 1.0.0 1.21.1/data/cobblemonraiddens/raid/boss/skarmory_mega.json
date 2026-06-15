@@ -7,7 +7,8 @@
       "ironhead",
       "bodypress",
       "irondefense"
-    ]
+    ],
+    "held_item": "zamega:skarmorite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "STEEL",

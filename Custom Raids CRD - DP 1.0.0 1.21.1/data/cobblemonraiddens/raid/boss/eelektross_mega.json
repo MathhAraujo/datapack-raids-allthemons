@@ -7,7 +7,8 @@
       "flamethrower",
       "gigadrain",
       "coil"
-    ]
+    ],
+    "held_item": "zamega:eelektrossite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "ELECTRIC",

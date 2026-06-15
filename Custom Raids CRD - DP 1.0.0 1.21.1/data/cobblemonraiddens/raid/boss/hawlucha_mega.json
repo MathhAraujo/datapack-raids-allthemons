@@ -7,7 +7,8 @@
       "acrobatics",
       "stoneedge",
       "swordsdance"
-    ]
+    ],
+    "held_item": "zamega:hawluchanite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "FIGHTING",

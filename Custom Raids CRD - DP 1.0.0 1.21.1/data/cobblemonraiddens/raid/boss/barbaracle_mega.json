@@ -7,7 +7,8 @@
       "razorshell",
       "crosschop",
       "shellsmash"
-    ]
+    ],
+    "held_item": "zamega:barbaracite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "ROCK",

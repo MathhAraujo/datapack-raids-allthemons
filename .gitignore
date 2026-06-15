@@ -1,0 +1,6 @@
+# Modpack instance (huge, and mod redistribution is not allowed)
+All the Mons - ATMons/
+
+# Build artifacts / local files
+*.zip
+*.xlsx

@@ -6,7 +6,8 @@
       "dracometeor",
       "calmmind",
       "recover"
-    ]
+    ],
+    "held_item": "mega_showdown:latiosite"
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "DRAGON",

@@ -7,7 +7,8 @@
       "crunch",
       "earthquake",
       "poweruppunch"
-    ]
+    ],
+    "held_item": "mega_showdown:kangaskhanite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "NORMAL",

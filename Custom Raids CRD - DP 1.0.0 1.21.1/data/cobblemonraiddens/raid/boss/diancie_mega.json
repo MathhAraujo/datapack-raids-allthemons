@@ -6,7 +6,8 @@
       "diamondstorm",
       "earthpower",
       "calmmind"
-    ]
+    ],
+    "held_item": "mega_showdown:diancite"
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "ROCK",

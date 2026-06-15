@@ -7,7 +7,8 @@
       "darkpulse",
       "aurasphere",
       "icebeam"
-    ]
+    ],
+    "held_item": "mega_showdown:blastoisinite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "WATER",

@@ -7,7 +7,8 @@
       "closecombat",
       "doubleedge",
       "workup"
-    ]
+    ],
+    "held_item": "zamega:staraptite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "NORMAL",

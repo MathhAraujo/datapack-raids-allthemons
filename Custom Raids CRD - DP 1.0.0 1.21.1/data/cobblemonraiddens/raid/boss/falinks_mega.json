@@ -7,7 +7,8 @@
       "megahorn",
       "ironhead",
       "noretreat"
-    ]
+    ],
+    "held_item": "zamega:falinksite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "FIGHTING",

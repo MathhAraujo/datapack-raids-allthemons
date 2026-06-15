@@ -7,7 +7,8 @@
       "zenheadbutt",
       "icepunch",
       "bulkup"
-    ]
+    ],
+    "held_item": "mega_showdown:medichamite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "FIGHTING",

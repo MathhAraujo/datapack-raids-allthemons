@@ -6,7 +6,8 @@
       "sludgebomb",
       "nastyplot",
       "hypnosis"
-    ]
+    ],
+    "held_item": "zamega:darkranite"
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "DARK",

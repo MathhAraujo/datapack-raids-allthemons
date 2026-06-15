@@ -6,7 +6,8 @@
       "dragonpulse",
       "recover",
       "calmmind"
-    ]
+    ],
+    "held_item": "mega_showdown:latiasite"
   },
   "raid_tier": "TIER_SEVEN",
   "raid_type": "DRAGON",

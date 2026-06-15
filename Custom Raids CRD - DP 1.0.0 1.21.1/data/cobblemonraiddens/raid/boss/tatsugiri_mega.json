@@ -7,7 +7,8 @@
       "hydropump",
       "nastyplot",
       "taunt"
-    ]
+    ],
+    "held_item": "zamega:tatsugirinite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "DRAGON",

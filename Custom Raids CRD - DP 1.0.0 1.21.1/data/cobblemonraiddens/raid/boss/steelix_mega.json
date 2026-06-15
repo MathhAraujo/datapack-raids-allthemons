@@ -7,7 +7,8 @@
       "heavyslam",
       "stoneedge",
       "curse"
-    ]
+    ],
+    "held_item": "mega_showdown:steelixite"
   },
   "raid_tier": "TIER_SIX",
   "raid_type": "STEEL",
