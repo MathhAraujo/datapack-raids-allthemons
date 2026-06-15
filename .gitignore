@@ -4,3 +4,6 @@ All the Mons - ATMons/
 # Build artifacts / local files
 *.zip
 *.xlsx
+
+# WIP mega stone drop fix (under testing, not shipped)
+Mega Stone Drop Fix - KubeJS/
