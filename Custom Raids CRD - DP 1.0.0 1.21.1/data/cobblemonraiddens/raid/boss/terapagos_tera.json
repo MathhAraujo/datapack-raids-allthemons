@@ -1,16 +1,16 @@
 {
   "pokemon": {
     "species": "terapagos",
-    "tera_type": "normal",
+    "tera_type": "stellar",
     "moves": [
       "terastarstorm",
       "earthpower",
       "calmmind",
-      "protect"
+      "storedpower"
     ]
   },
   "raid_tier": "TIER_SEVEN",
-  "raid_type": "NORMAL",
+  "raid_type": "STELLAR",
   "weight": 20.0,
   "ha_rate": 1.0,
   "shiny_rate": 32.0,
